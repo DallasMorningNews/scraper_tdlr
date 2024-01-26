@@ -4,11 +4,12 @@ from multiprocessing.pool import ThreadPool
 from tqdm import tqdm
 import time
 import os
-from datetime import date
+from datetime import date, timedelta
 from bs4 import BeautifulSoup
+from urllib.parse import quote
 
-today = date.today()
-
+last_week = date.today() - timedelta(days=7)
+# print(quote(last_week.strftime("%m-%d-%Y")))
 
 def set_up_threads(function, list):
     with ThreadPool() as pool:
@@ -39,7 +40,7 @@ def grab_data(url):
 
 
 def grab_counties(k, v):
-    API_endpoint = f'https://www.tdlr.texas.gov/TABS/Search/SearchProjects?length=100&LocationCounty={v}&start='
+    API_endpoint = f'https://www.tdlr.texas.gov/TABS/Search/SearchProjects?length=100&LocationCounty={v}&RegistrationDateBegin={last_week}&start='
     r = requests.get(f'{API_endpoint}0')
     total = r.json()['recordsTotal']
     
@@ -47,10 +48,12 @@ def grab_counties(k, v):
     
     data = [x for page in set_up_threads(grab_data, url_list) for x in page]
     
-    print(data)
+    # print(data)
     df = pd.DataFrame(data)
-    df['URL'] = f'https://www.tdlr.texas.gov/TABS/Search/Project/'+df['ProjectNumber']
-    df.to_csv(f'data/{k}/{k}_{today}.csv', index=False)
+    print(df)
+    if not df.empty:
+        df['URL'] = f'https://www.tdlr.texas.gov/TABS/Search/Project/'+df['ProjectNumber']
+    df.to_csv(f'data/{k}/{k}_{last_week}.csv', index=False)
 
 
 def structure_data(text, url):
@@ -99,13 +102,17 @@ def grab_detail(url):
 
 
 def grab_county_detail(file):
-    df = pd.read_csv(f'{file}.csv')
-    projects = df['URL'].unique().tolist()
-    data = set_up_threads(grab_detail, projects)
-    df = pd.DataFrame(data)
-    df.to_csv(f'{file}_detail.csv', index=False)
+    try:
+        df = pd.read_csv(f'{file}.csv')
+        projects = df['URL'].unique().tolist()
+        data = set_up_threads(grab_detail, projects)
+        df = pd.DataFrame(data)
+        df.to_csv(f'{file}_detail.csv', index=False)
+    except Exception as e:
+        print(e)
+        
 
 for k, v in counties.items():
     # print(f'data/{k}_{today}.csv')
     grab_counties(k, v)
-    grab_county_detail(f'data/{k}/{k}_{today}')
+    grab_county_detail(f'data/{k}/{k}_{last_week}')
