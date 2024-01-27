@@ -48,11 +48,11 @@ def grab_counties(k, v):
     
     data = [x for page in set_up_threads(grab_data, url_list) for x in page]
     
-    # print(data)
     df = pd.DataFrame(data)
-    print(df)
+
     if not df.empty:
         df['URL'] = f'https://www.tdlr.texas.gov/TABS/Search/Project/'+df['ProjectNumber']
+
     df.to_csv(f'data/{k}/{k}_{last_week}.csv', index=False)
 
 
@@ -108,6 +108,7 @@ def grab_county_detail(file):
         data = set_up_threads(grab_detail, projects)
         df = pd.DataFrame(data)
         df.to_csv(f'{file}_detail.csv', index=False)
+        df.to_csv((f'{file}_detail.csv').replace(f'_{last_week}', '_latest'), index=False)
     except Exception as e:
         print(e)
         
