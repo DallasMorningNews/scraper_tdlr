@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+0ca02958-72c5-4f3f-b484-a16b6427bb47,TABS2024009867,Bespoke Health and Beauty,2024-01-23T11:12:58.65,3009,Texas Ranch Trails Retail Strip,1486,2199,9002,375000.0,900001,2024-02-15T00:00:00,2024-05-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024009867
+2378f6e9-af52-486e-b007-36ea72b37b0b,TABS2024009861,SSA Woodcreek,2024-01-23T10:37:13.02,3008,SSA Woodcreek,574,2199,9001,995000.0,900001,2024-04-01T00:00:00,2024-10-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024009861
+24b1c65e-53b3-4fb9-b11e-468d52de7040,TABS2024009770,HEB Rockwall,2024-01-22T12:19:01.497,3008,HEB Corp#810,1486,2199,9001,40000000.0,900001,2024-08-12T00:00:00,2025-09-17T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024009770
