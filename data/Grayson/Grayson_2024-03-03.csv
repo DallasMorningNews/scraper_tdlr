@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+05a76615-6d8d-4a83-ac60-9f3ec2e38725,TABS2024013307,PEMB Founder's Business Park,2024-03-07T10:21:05.883,3008,PEMB Founder's Business Park,443,2091,9001,1750000.0,900001,2024-05-01T00:00:00,2024-08-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024013307
+9938c684-c397-4def-bc86-1171acef2a8d,TABS2024013245,Jack in the Box Sherman,2024-03-06T15:03:18.633,3008,Jack in the Box Sherman,1607,2091,9002,400000.0,900001,2024-04-01T00:00:00,2024-11-15T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024013245
+2b024de7-dc7d-4f0e-8ccd-d12a6ade829d,TABS2024013081,HDC Chipotle Sherman,2024-03-05T11:46:32.823,3008,HDC-Chipotle Sherman,1607,2091,9001,1300000.0,900001,2024-05-01T00:00:00,2024-11-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024013081

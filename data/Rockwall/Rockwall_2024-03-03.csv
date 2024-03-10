@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+abc25073-3e76-4b5a-bee0-9f476a32712f,TABS2024012972,"Tesla - Royce City, TX",2024-03-04T13:26:11.93,3009,Tesla,1512,2199,9001,120000.0,900001,2024-03-25T00:00:00,2025-03-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024012972
+342ba21d-fdbc-4ace-a58a-5d340e9906dd,TABS2024012929,PTAA Royse City Project,2024-03-04T10:08:04.547,3008,PTAA Royse City New Building,1513,2199,9001,4000000.0,900001,2024-06-01T00:00:00,2025-07-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024012929
