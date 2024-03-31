@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+360afe80-6471-4e04-ab6f-5bab3530619b,TABS2024015022,Chick-fil-A #3525 Terrell,2024-03-29T15:08:49.393,3008,Chick-fil-A,1721,2129,9002,800000.0,900001,2024-08-30T00:00:00,2024-10-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024015022
+31c3a3fc-a154-4ca0-aaad-250a21d78094,TABS2024014875,Barrett Distribution @ Forney Bldg 2,2024-03-28T09:55:41.687,3008,Forney Logistic East - Building 2,595,2129,9002,6700000.0,900001,2024-04-15T00:00:00,2024-11-22T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024014875
+9c9b218c-03bb-41c3-87a6-fe6d03663063,TABS2024014866,Forney ASC & MOB Shell,2024-03-28T08:12:34.95,3008,Forney ASC & MOB Shell,595,2129,9001,4655000.0,900001,2024-06-03T00:00:00,2025-03-28T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024014866
