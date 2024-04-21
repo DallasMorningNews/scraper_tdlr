@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+442a47a0-f08e-422d-aacd-669e997b4a94,TABS2024016351,HUNTER PLACE,2024-04-17T08:49:05.743,3008,HUNTER PLACE,386,2129,9003,75000.0,900001,2024-05-01T00:00:00,2024-08-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024016351
+358544e0-0c22-4c50-89e4-901ea010a703,TABS2024016275,The B Lounge,2024-04-16T10:43:42.913,3009,Victory Shops at Forney,595,2129,9001,55000.0,900001,2024-05-15T00:00:00,2024-09-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024016275
+4ad310e1-ca71-4f97-9d80-c9e00c16759b,TABS2024016206,B&B Steakhouse & Meat Market,2024-04-15T15:20:11.38,3008,B&B Steakhouse,857,2129,9002,250000.0,900001,2024-04-15T00:00:00,2024-09-22T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024016206

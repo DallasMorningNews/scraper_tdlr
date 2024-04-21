@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+54c759d4-a31b-4a76-9f41-5ff3bffcbb86,TABS2024016545,QuikTrip #1915 Coffee Wow,2024-04-18T18:27:49.54,3008,QuikTrip #1915,1607,2091,9002,78000.0,900001,2024-06-16T00:00:00,2024-06-19T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024016545
+6e711955-1ee4-42d8-8a8f-791f1e15c604,TABS2024016391,Forney Fence,2024-04-17T11:54:00.39,3008,Forney Fence,709,2091,9001,2500000.0,900001,2024-06-01T00:00:00,2024-12-15T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024016391
+75c649ce-2181-4577-b120-005e6a2a3af9,TABS2024016168,Sherman Inspire Academy,2024-04-15T13:04:44.3,3009,Sherman Inspire Academy,1607,2091,9001,17000000.0,900001,2024-05-20T00:00:00,2025-07-21T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024016168
