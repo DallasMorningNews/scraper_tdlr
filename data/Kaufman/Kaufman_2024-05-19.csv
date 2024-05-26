@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+792cf18c-ca39-498c-bd64-e4db2537338f,TABS2024019293,THE LITTLE GYM - FORNEY,2024-05-23T19:46:03.173,3008,TLG FORNEY,595,2129,9001,300000.0,900001,2024-06-23T00:00:00,2024-10-23T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024019293
+86f24140-2fcf-43b9-b008-92411d4990c8,TABS2024019280,Action Behavior Center Forney East,2024-05-23T16:26:06.713,3008,Action Behavior Center Forney East,595,2129,9002,250000.0,900001,2024-06-01T00:00:00,2025-01-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024019280
+e78f6ef8-848b-4fe7-bbc7-9e0ae32bddb8,TABS2024018984,Arka Montessori School,2024-05-21T04:43:01.667,3008,Arka Montessori School,595,2129,9001,2500000.0,900001,2024-05-30T00:00:00,2025-05-20T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024018984

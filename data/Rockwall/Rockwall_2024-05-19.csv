@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+9227e1d7-c8fe-4501-a1ee-946161b2cd57,TABS2024019282,beem Light Sauna,2024-05-23T16:30:59.73,3008,315 Laurence,741,2199,9002,387000.0,900001,2024-06-17T00:00:00,2024-08-19T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024019282
+f4db789d-fb45-42c8-95a7-420dcb6830f3,TABS2024019103,Wingstop (GL#AB652),2024-05-22T09:54:20.853,3008,Wingstop,1509,2199,9002,300000.0,900001,2024-07-01T00:00:00,2024-10-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024019103
+c71fe504-3d32-483e-b3e9-0c0cb85e9571,TABS2024018874,"Lowe's of Royse City, TX",2024-05-20T09:41:52.017,3008,Lowe's Home Improvement,1513,2199,9001,12000000.0,900001,2024-08-01T00:00:00,2025-04-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024018874
