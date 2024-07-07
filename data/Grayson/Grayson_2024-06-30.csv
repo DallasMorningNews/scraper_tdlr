@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+2370ed1c-c4ed-416e-9fa1-1409eab67c84,TABS2024022315,Sherman City Hall Remodel,2024-07-03T09:45:28.163,3008,Sherman City Hall,1607,2091,9002,2800000.0,900001,2024-08-26T00:00:00,2025-03-28T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024022315
+9153cc98-1de8-4c38-b5ef-f768cebe8ccd,TABS2024022288,InP (Indium Phosphide),2024-07-02T17:16:37.043,3008,Coherent - Sherman,1607,2091,9002,2000000.0,900001,2024-09-24T00:00:00,2025-03-25T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024022288
