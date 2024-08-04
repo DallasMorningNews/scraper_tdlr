@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+b64fae33-b540-41c4-939b-262be2f551e2,TABS2024024613,City of Terrell Fire Station No 3,2024-08-02T14:35:31.463,3008,Fire Station No 3,1721,2129,9001,12853250.0,900001,2024-10-15T00:00:00,2025-12-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024024613
+4e17e0ac-1ca1-4e6d-b1e7-08050289d225,TABS2024024156,Traffic Signal Installation for the Intersection of SH 34 at Kings Fort Pkwy,2024-07-29T15:07:04.34,3009,Intersection of SH 34 and Kings Fort Pkwy,857,2129,9001,50000.0,900001,2024-09-01T00:00:00,2025-09-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024024156
