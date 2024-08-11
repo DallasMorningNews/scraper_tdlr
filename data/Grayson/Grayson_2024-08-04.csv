@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,DataVersionId,ProjectName,ProjectStatus,ProjectCreatedOn,FacilityName,City,County,TypeOfWork,EstimatedCost,EstimatedStartDate,EstimatedEndDate,URL
+82b912e8-8342-432f-b172-51ec478ddab1,TABS2024025126,900001,main street window warehouse,3008,2024-08-09T12:26:07.467,main street lumber,443,2091,9001,300000.0,2024-08-26T00:00:00,2024-10-23T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024025126
+8e68d000-2731-4d98-94c2-8c1610174622,TABS2024024924,900001,"Walmart #00147.1001 Denison, TX",3009,2024-08-07T12:40:43.6,Walmart #00147,443,2091,9002,110000.0,2024-10-06T00:00:00,2024-11-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024024924
+8dad6846-c8e8-44cd-ab2b-69a532dc2185,TABS2024024859,900001,"Wingstop - Denison, TX (GL#AC002)",3008,2024-08-06T16:48:41.123,"Wingstop - Denison, TX (GL#AC002)",443,2091,9002,300000.0,2024-12-02T00:00:00,2025-02-03T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024024859
