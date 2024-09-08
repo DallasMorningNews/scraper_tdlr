@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+3bb14e36-95cf-4ac3-9760-2566eebd26fd,TABS2025000411,The ACAI BAR,2024-09-06T17:05:05.4,3008,"Forney Mixed Use, LLC",595,2129,9003,112000.0,900001,2024-09-16T00:00:00,2024-10-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025000411
+762d897a-ad87-4f65-84df-a9a449b375e2,TABS2025000366,"IH 20 (CSJ: 0095-14-035, etc.)",2024-09-06T13:09:15.39,3008,"CSJ: 0095-14-035, etc.",1721,2129,9001,4304425.0,900001,2026-04-01T00:00:00,2028-04-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025000366

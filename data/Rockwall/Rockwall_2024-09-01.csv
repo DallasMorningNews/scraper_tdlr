@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+a2dd7709-b267-48a8-be26-fe649cbaceb1,TABS2025000329,Whataburger,2024-09-06T07:52:32.557,3008,Whataburger,574,2199,9001,2500000.0,900001,2024-10-15T00:00:00,2025-03-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025000329
+25e53bce-a8a5-443b-b72e-7f3615033564,TABS2025000040,Terraces Amenity Center,2024-09-03T10:53:12.983,3008,Terraces Amenity Center,1486,2199,9001,1800000.0,900001,2024-09-25T00:00:00,2025-04-15T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025000040
