@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+2d19e081-9951-489a-bebb-4d066bf51951,TABS2025004906,Speculative Retail Building for Mozele,2024-11-05T15:37:20.543,3008,No Name,1392,2091,9001,600000.0,900001,2024-12-31T00:00:00,2025-11-28T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025004906
+3c4011e9-872b-41bb-b4e8-c50bcbc4f445,TABS2025004816,Sherman Chevrolet Quick Lube Remodel,2024-11-04T17:13:04.457,3008,Sherman Chevrolet Quick Lube Remodel,1607,2091,9002,1500000.0,900001,2025-02-03T00:00:00,2026-01-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025004816
