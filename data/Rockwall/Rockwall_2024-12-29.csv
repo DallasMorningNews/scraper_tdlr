@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,DataVersionId,ProjectName,ProjectStatus,ProjectCreatedOn,FacilityName,City,County,TypeOfWork,EstimatedCost,EstimatedStartDate,EstimatedEndDate,URL
+b9e1c4e5-a727-4416-9ada-954278f81e3b,TABS2025008674,900001,24-0281 Chipotle Shell - Fate,3008,2025-01-02T15:18:02.703,Chipotle Shell,574,2199,9001,650000.0,2025-03-07T00:00:00,2025-09-26T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025008674
+e973488c-7507-4325-bf6f-c5a283c49334,TABS2025008564,900001,Sandknop Health Group Family Medicine,3008,2024-12-30T11:00:28.69,SKWR MOB,741,2199,9002,1400000.0,2025-01-01T00:00:00,2025-04-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025008564
