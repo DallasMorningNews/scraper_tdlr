@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+56f10f1f-65bc-45a0-bd4b-d9a8759e5074,TABS2025009200,"Nike Unite Store, Remodel",2025-01-09T20:13:14.763,3008,The Shops at Terrell,1721,2129,9002,450000.0,900001,2025-04-21T00:00:00,2025-06-06T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025009200
+4d63792f-4144-4cdc-a02c-52842907f77d,TABS2025009110,11365,2025-01-09T09:07:53.197,3008,Eagle Addition,863,2129,9001,500000.0,900001,2025-01-17T00:00:00,2025-03-14T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025009110
+5495df67-898a-4bc0-ada4-237c186d260d,TABS2025008956,Tractor Supply,2025-01-07T15:17:13.553,3009,Tractor Supply,595,2129,9001,3000000.0,900001,2025-05-01T00:00:00,2025-12-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025008956

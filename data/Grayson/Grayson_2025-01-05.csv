@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+11526cb4-6896-4dda-8b0d-f205b2eeb95d,TABS2025009102,Famous Footwear,2025-01-08T18:46:24.54,3008,Sherman Town Center,1607,2091,9002,236425.0,900001,2025-09-25T00:00:00,2025-10-16T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025009102
+02f532ce-8823-4e35-9ae2-d4e2eef76b99,TABS2025009058,Casey's General Store Sherman,2025-01-08T14:54:42.153,3008,Casey's General Store,1607,2091,9002,430000.0,900001,2025-03-10T00:00:00,2025-08-11T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025009058
+1f8bbf4c-06ca-49be-88d5-5c96d012ad56,TABS2025008988,SUPERMERCADO DEL PUEBLO,2025-01-07T19:59:54.913,3009,SUPERMERCADO DEL PUEBLO,1607,2091,9002,300000.0,900001,2025-04-01T00:00:00,2025-12-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025008988

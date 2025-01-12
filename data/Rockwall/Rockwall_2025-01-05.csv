@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+1bd05bdb-6308-4c91-a1be-c5a9419afe68,TABS2025009014,Rockwall Park 30 Spec Office - Building 2,2025-01-08T10:37:33.603,3008,Rockwall Park 30,1486,2199,9001,407465.0,900001,2025-02-15T00:00:00,2025-05-15T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025009014
+f7796164-5c42-4775-acbb-3119e82f111b,TABS2025008915,Ashton Gray - Medtail,2025-01-07T11:02:53.827,3009,Ashton Gray - Medtail,574,2199,9001,3351500.0,900001,2025-01-21T00:00:00,2025-06-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025008915
