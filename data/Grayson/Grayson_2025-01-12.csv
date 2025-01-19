@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,DataVersionId,ProjectName,ProjectStatus,ProjectCreatedOn,FacilityName,City,County,TypeOfWork,EstimatedCost,EstimatedStartDate,EstimatedEndDate,URL
+9f06cebf-965e-4261-84a4-87fb67747972,TABS2025009680,900001,"Sam's Club 6350-1007 Sherman, TX",3009,2025-01-16T09:50:30.893,Sam's Club 6350,1607,2091,9002,600000.0,2025-06-02T00:00:00,2025-07-25T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025009680
+c24d20f4-36a0-4643-a331-50977255603a,TABS2025009513,900001,collinsville restaurant,3008,2025-01-14T14:14:54.897,home cooking,346,2091,9001,800000.0,2025-02-01T00:00:00,2025-10-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025009513

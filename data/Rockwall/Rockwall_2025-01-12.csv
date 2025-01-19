@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,DataVersionId,ProjectName,ProjectStatus,ProjectCreatedOn,FacilityName,City,County,TypeOfWork,EstimatedCost,EstimatedStartDate,EstimatedEndDate,URL
+701ccb8d-8bcb-4afe-9a66-9d357f790ec5,TABS2025009574,900001,BMCLP ED CT Replacement,3008,2025-01-15T08:24:17.61,Baylor Scott & White Medical Center - Lake Pointe,1509,2199,9002,702479.0,2025-02-01T00:00:00,2025-07-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025009574
+2cc538db-2d73-4c07-80f1-5800cf0bfb47,TABS2025009303,900001,Garden Courtyard,3008,2025-01-13T07:51:51.847,Holy Trinity by the Lake Episcopal Church,741,2199,9003,90000.0,2025-01-02T00:00:00,2025-02-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025009303
