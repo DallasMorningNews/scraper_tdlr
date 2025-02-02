@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,DataVersionId,ProjectName,ProjectStatus,ProjectCreatedOn,FacilityName,City,County,TypeOfWork,EstimatedCost,EstimatedStartDate,EstimatedEndDate,URL
+8c64adcb-d010-45a9-a1fb-10dac18167ff,TABS2025010507,900001,Walmart Store #265 Zipline Drone Delivery,3008,2025-01-28T11:37:35.03,Walmart,1721,2129,9002,750000.0,2025-02-24T00:00:00,2025-04-26T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025010507
+a4cc0077-5de1-4a3a-92f6-f49e11aeff52,TABS2025010496,900001,Snap Fitness Gym,3008,2025-01-28T10:39:28.98,Snap Fitness Gym,857,2129,9002,114500.0,2025-02-10T00:00:00,2025-05-26T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025010496
+7b9f6a03-44c5-456a-8e48-e27d005202d7,TABS2025010417,900001,Walmart Store #4164 Zipline Drone Delivery,3008,2025-01-27T14:22:50.147,Walmart,857,2129,9002,750000.0,2025-02-10T00:00:00,2025-04-12T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025010417

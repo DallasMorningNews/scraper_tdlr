@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,DataVersionId,ProjectName,ProjectStatus,ProjectCreatedOn,FacilityName,City,County,TypeOfWork,EstimatedCost,EstimatedStartDate,EstimatedEndDate,URL
+6f9073d0-3bcf-4b74-8f8d-a2dbd6863d6e,TABS2025010729,900001,Forvia Phase II Finish-Out - Building 1,3008,2025-01-30T13:39:12.26,Rockwall Park 30,1486,2199,9001,1500000.0,2025-03-01T00:00:00,2025-06-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025010729
+3102f49e-b6e2-4839-9c07-1989d7c75a16,TABS2025010606,900001,Barnes & Noble,3008,2025-01-29T12:09:24.083,n/a,1486,2199,9002,401700.0,2025-05-12T00:00:00,2025-08-22T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025010606
+1c4f8d84-37a4-49db-b4ac-ebebb6f993f7,TABS2025010397,900001,Connected Cardiovascular Care Associates,3008,2025-01-27T12:32:56.49,SKWR Horizon Office Park MOB Lot 1,741,2199,9002,850000.0,2025-03-01T00:00:00,2025-08-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025010397
