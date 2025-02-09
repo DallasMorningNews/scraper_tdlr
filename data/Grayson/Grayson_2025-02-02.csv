@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+b3abb38a-a615-4c31-ac7f-1c1db57a3dc6,TABS2025011065,Cantex Suite 225 Tenant Finish-out,2025-02-04T15:48:21.523,3008,Gateway Central Building,443,2091,9002,80000.0,900001,2025-02-07T00:00:00,2025-04-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025011065
+358924b0-a5ee-4dbf-9fdc-bc593729630e,TABS2025010991,Texoma Pawn Shop,2025-02-04T08:58:56.267,3008,F Marr Inc,443,2091,9001,250000.0,900001,2025-03-15T00:00:00,2025-07-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025010991
+d9036261-bd1a-41cf-b8fa-7dd16b963466,TABS2025010922,"Kirby Smith Machinery, Inc. - Van Alstyne, TX",2025-02-03T12:05:40.63,3008,"Kirby Smith Machinery, Inc.",1787,2091,9001,10900000.0,900001,2025-05-24T00:00:00,2026-04-26T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025010922
