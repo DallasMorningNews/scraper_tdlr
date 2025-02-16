@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+c6a03e72-67a1-4f1c-ab00-020e97988c4b,TABS2025011904,PNC Rockwall,2025-02-13T16:16:47.01,3008,PNC Bank,1486,2199,9002,1000000.0,900001,2025-04-01T00:00:00,2025-10-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025011904
+3fc3aaec-e042-4255-b919-637c081cd7ad,TABS2025011811,New Office/Warehouse for Helping Hands Rockwall,2025-02-12T20:55:19.033,3008,New Office/Warehouse for Helping Hands Rockwall,1486,2199,9001,940000.0,900001,2024-05-01T00:00:00,2025-02-14T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025011811
+b46312f5-5342-456d-b9f8-03431121270a,TABS2025011517,Chipotle TI - Fate,2025-02-10T14:40:13.393,3008,Chipotle,574,2199,9001,560000.0,900001,2025-06-24T00:00:00,2025-10-20T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025011517
