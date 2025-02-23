@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+119d9a81-3a45-4172-a2ee-c3b1da0d9118,TABS2025012431,Crossroads Inn remodeling,2025-02-20T19:24:48.207,3008,CROSSROADS INN,1607,2091,9002,150000.0,900001,2025-03-01T00:00:00,2025-05-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025012431
+dbe294e5-a5f8-42e3-aafd-62b109488720,TABS2025012091,Grayson County Adult Probation Renovation,2025-02-17T15:04:31.267,3008,Grayson County Adult Probation Renovation,1607,2091,9002,500000.0,900001,2025-03-03T00:00:00,2025-06-27T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025012091
