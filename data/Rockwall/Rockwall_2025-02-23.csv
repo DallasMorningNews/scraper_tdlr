@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+2ef94afb-70ff-4ee7-9860-9eaa006747d4,TABS2025012948,Comfort Suites Rowlett Conversion,2025-02-27T14:56:51.823,3009,Comfort Suites Lake Ray Hubbard,1509,2199,9002,70000.0,900001,2025-03-03T00:00:00,2025-04-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025012948
+83610198-895d-467d-925b-fc1ae7cffc7a,TABS2025012875,"Walmart 3530-1006 Rockwall,TX",2025-02-26T19:11:20.79,3009,Walmart 3530,1486,2199,9002,1500000.0,900001,2025-06-23T00:00:00,2025-10-13T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025012875
+1f60d167-f739-43cd-8dc3-57cd38c475e1,TABS2025012662,Walmart Store #5987 Zipline Drone Delivery,2025-02-25T09:59:04.517,3008,Walmart,1513,2199,9002,750000.0,900001,2025-05-07T00:00:00,2025-07-07T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025012662
