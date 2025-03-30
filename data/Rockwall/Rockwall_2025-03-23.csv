@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+cf61c796-5d4d-4e51-8c87-bd3596ffbfcd,TABS2025014928,Meals On Wheels Rockwall,2025-03-24T14:29:52.78,3008,MOW Rockwall,1486,2199,9001,4150500.0,900001,2025-05-05T00:00:00,2026-05-11T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025014928
+37455a1c-40dd-4a8d-9560-a96b611005fe,TABS2025014919,River Dog Resort,2025-03-24T13:26:35.89,3008,River Dog Resort,1486,2199,9001,2135600.0,900001,2025-05-05T00:00:00,2026-03-09T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025014919
