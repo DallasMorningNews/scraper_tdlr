@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+3e8f51a6-630c-4f54-8476-719b8344f6d2,TABS2025016388,Neubauer Project,2025-04-10T13:48:36.91,3008,Office Building,1871,2091,9001,387000.0,900001,2025-01-24T00:00:00,2025-04-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025016388
+8302814f-b7c2-4992-b3d8-931ef72ddad6,TABS2025016228,Valvoline,2025-04-09T10:00:38.443,3008,Valvoline,1607,2091,9001,1449000.0,900001,2025-07-07T00:00:00,2025-12-29T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025016228
