@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,DataVersionId,ProjectName,ProjectStatus,ProjectCreatedOn,FacilityName,City,County,TypeOfWork,EstimatedCost,EstimatedStartDate,EstimatedEndDate,URL
+b4692ae4-2bad-472b-85aa-5105d55b440b,TABS2025017226,900001,IH 20 (CSJ: 0095-14-036),3008,2025-04-22T13:19:57.743,CSJ: 0095-14-036,595,2129,9001,243943049.0,2031-08-01T00:00:00,2034-08-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025017226
+9c57854b-9ce9-40e6-84f3-d2ecabbcb7ff,TABS2025017169,900001,Awning Addition,3008,2025-04-22T08:03:42.33,Galleher Industries,857,2129,9003,200000.0,2025-05-01T00:00:00,2025-06-15T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025017169
