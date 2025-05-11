@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+98db6850-37ed-4ecf-880d-edf607fbc585,TABS2025018512,Forney Market,2025-05-08T07:28:55.06,3008,Retail B,595,2129,9001,5490000.0,900001,2025-06-30T00:00:00,2025-11-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025018512
+817db5e9-0759-40a9-8c41-72d1fd618b89,TABS2025018163,THR Kaufman MRI Equipment Replacement,2025-05-05T11:20:12.977,3009,Texas Health Presbyterian Hospital Kaufman,857,2129,9002,420000.0,900001,2025-05-27T00:00:00,2025-09-12T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025018163
