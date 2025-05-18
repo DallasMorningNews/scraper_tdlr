@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+f5656455-57e4-40e1-99a0-18f8f5d312bb,TABS2025019215,"Ace Self-Storage, Van Alstyne",2025-05-16T17:17:41.987,3008,"Ace Self-Storage, Van Alstyne",1787,2091,9001,5000000.0,900001,2025-07-15T00:00:00,2026-05-15T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025019215
+83406490-067b-4f97-b78d-f49ec3623eca,TABS2025019055,Jimmy John's,2025-05-15T09:13:29.67,3008,Jimmy John's,443,2091,9001,180000.0,900001,2025-10-01T00:00:00,2026-04-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025019055
+5d94a443-d6dd-4ae7-abb8-4cb6a4a2922a,TABS2025019038,"Casey's Bells, TX",2025-05-14T17:35:31.65,3008,Casey's,126,2091,9002,721000.0,900001,2025-07-01T00:00:00,2025-10-27T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025019038
