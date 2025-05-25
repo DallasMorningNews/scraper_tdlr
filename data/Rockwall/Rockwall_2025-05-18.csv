@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+fae4a692-8055-4e92-923c-47897affe49d,TABS2025019630,Homestead PH1,2025-05-22T16:35:23.143,3008,N/A,1486,2199,9001,10000000.0,900001,2023-04-01T00:00:00,2024-08-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025019630
+77ecb3ce-edfa-446d-b6e5-5e47674deee4,TABS2025019440,"O'Reilly Auto Parts #OAP0002 Fate, TX",2025-05-21T09:22:37.757,3008,O'Reilly Auto Parts,574,2199,9002,1976100.0,900001,2025-10-06T00:00:00,2026-04-05T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025019440
