@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,DataVersionId,ProjectName,ProjectStatus,ProjectCreatedOn,FacilityName,City,County,TypeOfWork,EstimatedCost,EstimatedStartDate,EstimatedEndDate,URL
+4a2838b2-66bb-4fe1-84e9-024fef5b705f,TABS2025021256,900001,BSW Forney Lab,3008,2025-06-13T11:45:50.86,Baylor Scott & White Emergency Center - Forney,595,2129,9002,350000.0,2025-08-04T00:00:00,2025-10-03T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025021256
+878cf05d-bb08-4f83-966a-b2bd4a4e0785,TABS2025021064,900001,CHC Forney Retail,3008,2025-06-11T14:48:54.33,CHC Forney Retail,595,2129,9001,1800000.0,2025-08-11T00:00:00,2026-08-11T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025021064
+ded5fa3e-8da8-4564-9491-5d4a2e7649c2,TABS2025020913,900001,Kings Fort Villas,3008,2025-06-10T09:31:30.253,Kings Fort Villas,857,2129,9001,30000000.0,2025-09-15T00:00:00,2027-06-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025020913
