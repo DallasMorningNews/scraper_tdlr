@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+5029ab9d-f0ed-4e74-8f75-e0e25509bab2,TABS2025021669,USOnTX Denison Pharmacy,2025-06-19T13:36:58.53,3008,Texoma 2,443,2091,9002,1200000.0,900001,2025-08-01T00:00:00,2025-09-26T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025021669
+22467822-833e-41d2-b583-eb4146d2c1cf,TABS2025021666,Camilo’s Tex Mex,2025-06-19T12:56:40.347,3008,Gunter Retail Building,709,2091,9001,50000.0,900001,2024-12-09T00:00:00,2025-06-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025021666
+568297af-43a1-44e9-be27-72141c611de9,TABS2025021613,Flex Business Park,2025-06-18T20:20:21.367,3008,Preston Bend Business Park,1392,2091,9001,800000.0,900001,2025-08-01T00:00:00,2026-02-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025021613
