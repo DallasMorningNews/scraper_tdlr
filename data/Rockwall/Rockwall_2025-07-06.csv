@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,DataVersionId,ProjectName,ProjectStatus,ProjectCreatedOn,FacilityName,City,County,TypeOfWork,EstimatedCost,EstimatedStartDate,EstimatedEndDate,URL
+093e0b2b-b83f-416d-ae7e-b19b97bf2d93,TABS2025023194,900001,SKWR Lab,3008,2025-07-10T13:17:04.503,SKWR Heath MOB,741,2199,9002,200000.0,2025-08-31T00:00:00,2025-12-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025023194
+4419c9eb-8522-4eca-a693-612534554e11,TABS2025023133,900001,Goodwill Store and Donation Center-Drive Through Canopy,3008,2025-07-09T20:50:03.88,Goodwill Store and Donation Center,1486,2199,9002,85000.0,2025-07-31T00:00:00,2025-09-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025023133

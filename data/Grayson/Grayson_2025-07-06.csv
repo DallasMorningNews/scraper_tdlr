@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,DataVersionId,ProjectName,ProjectStatus,ProjectCreatedOn,FacilityName,City,County,TypeOfWork,EstimatedCost,EstimatedStartDate,EstimatedEndDate,URL
+08f40551-7e45-4f19-8fee-e083a68adb6e,TABS2025023271,900001,QuikTrip #1915 Fryer Project,3008,2025-07-11T10:45:47.417,QuikTrip #1915,1607,2091,9002,125000.0,2025-09-21T00:00:00,2025-10-06T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025023271
+ec078fab-5d48-4828-bee2-533b9a043c87,TABS2025023238,900001,COZY NEST,3008,2025-07-10T17:37:18.567,THE COZY NEST APARTMENTS,1871,2091,9001,5500000.0,2025-01-12T00:00:00,2028-12-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025023238
+f515e8b8-0446-4f3e-bb57-3ff97c4219df,TABS2025022770,900001,Men's Wearhouse #1205 - Sherman,3008,2025-07-07T05:35:56.147,Men's Wearhouse @ Sherman Oaks,1607,2091,9002,75000.0,2025-09-01T00:00:00,2025-12-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025022770
