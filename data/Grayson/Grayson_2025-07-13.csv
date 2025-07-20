@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+e2a63152-73b1-4958-9472-be049e4394d2,TABS2025023870,Flex Space Warehouses,2025-07-18T12:43:14.78,3008,Arrowhead Business Park,1871,2091,9001,1000000.0,900001,2025-08-01T00:00:00,2026-08-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025023870
+60e751be-3302-45bd-98d7-c592f75aaf4b,TABS2025023785,QuikTrip # 1919 Fryer Project,2025-07-17T13:07:50.627,3008,QuikTrip #1919,443,2091,9002,125000.0,900001,2025-09-28T00:00:00,2025-10-13T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025023785
+8003a8c5-7341-4ca1-a0ea-1078c2150917,TABS2025023751,Pet Wants,2025-07-17T10:13:39.607,3008,Pet Wants,1607,2091,9002,12910900.0,900001,2024-08-19T00:00:00,2025-11-03T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025023751
