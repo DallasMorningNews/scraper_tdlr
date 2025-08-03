@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+25d44c11-c2c6-4976-98b9-885ad922240c,TABS2025024903,Lamberth Rd Drainage Improvements- Phase 2,2025-07-31T17:06:09.753,3008,Lamberth Rd,1607,2091,9001,1700000.0,900001,2025-10-01T00:00:00,2026-10-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025024903
+86b7187e-efd7-44f0-a610-70f21c2adae9,TABS2025024897,McDonald's Whitesboro (42-2337),2025-07-31T16:26:43.69,3008,McDonald's Restaurant,1871,2091,9001,750000.0,900001,2025-11-03T00:00:00,2026-04-03T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025024897
+e11f2731-f4f7-4e7b-bc6a-a33f2c176853,TABS2025024787,"Sherwin 721161 Sherman, TX",2025-07-30T18:01:34.943,3008,Sherman Commons,1607,2091,9002,450000.0,900001,2025-10-02T00:00:00,2025-12-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025024787
