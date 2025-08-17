@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,DataVersionId,ProjectName,ProjectStatus,ProjectCreatedOn,FacilityName,City,County,TypeOfWork,EstimatedCost,EstimatedStartDate,EstimatedEndDate,URL
+cfe3af7f-676e-405d-b560-98e3e1def322,TABS2025026008,900001,"Casey's #4484 Denison, TX",3008,2025-08-15T15:10:51.777,Casey's General Store,443,2091,9002,500000.0,2025-10-15T00:00:00,2026-04-15T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025026008
+8d09634d-c4ec-4cf4-8878-61b06035288c,TABS2025025835,900001,The Back Nine - Sherman,3008,2025-08-14T08:15:45.74,Westwood Village,1607,2091,9002,120000.0,2025-08-25T00:00:00,2025-10-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025025835
+3e5ec4b6-dc74-45aa-a6bd-4a32daca045a,TABS2025025767,900001,QuikTrip # 1911 Fryer Project,3008,2025-08-13T13:20:13.147,QuikTrip # 1911,1787,2091,9002,125000.0,2025-11-02T00:00:00,2025-11-17T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025025767
