@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+61a6d54a-badf-4c1b-8c98-51fe4c66f7f5,TABS2026001348,Village at Gateway Phase 1 - Public Infrastructure,2025-09-19T12:48:52.13,3008,Village at Gateway Phase 1,595,2129,9001,16519895.0,900001,2024-09-27T00:00:00,2025-09-22T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026001348
+f0fcc19c-5da6-4d82-b356-0ec9f9d5f79d,TABS2026001110,Talia Masterplan Community Phase 1B Public,2025-09-17T11:19:51.927,3009,Talia Phase 1B,595,2129,9001,1173507.0,900001,2025-09-12T00:00:00,2026-03-12T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026001110
