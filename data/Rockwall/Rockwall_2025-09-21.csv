@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+67cbd842-f9e2-4460-9832-52af04f31240,TABS2026001924,oneco Rockwall,2025-09-26T11:41:43.74,3008,Vigor Way Plaza,1486,2199,9001,175000.0,900001,2025-10-15T00:00:00,2026-02-28T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026001924
+42eeb0ba-6f72-4ed1-9c65-adcd6d2ded0f,TABS2026001536,"Walmart 259-255 Rockwall, TX",2025-09-23T08:21:39.957,3008,Walmart 259,1486,2199,9002,1300000.0,900001,2026-04-19T00:00:00,2026-07-09T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026001536
