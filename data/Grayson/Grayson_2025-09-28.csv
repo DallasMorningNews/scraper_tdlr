@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+5fe017fa-b7b3-4a89-8f93-8f2253dc8f87,TABS2026002424,New Maintenance Facility,2025-10-02T14:39:10.37,3008,Denison Housing Authority Maintenance Building,443,2091,9001,650000.0,900001,2025-12-01T00:00:00,2026-05-29T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026002424
+064ca0aa-585a-4a92-ba34-80fafbff2b8c,TABS2026002390,"Casey's General Store - Sherman, TX",2025-10-02T11:11:14.183,3008,Canyon Creek Center,1607,2091,9002,500000.0,900001,2026-01-05T00:00:00,2026-03-13T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026002390
+16b9bad2-848a-4fe3-ba3a-9fafb509995b,TABS2026002055,"PATEL, JAY",2025-09-29T13:32:07.017,3008,JP ORTHODONTICS,709,2091,9001,268975.0,900001,2025-10-20T00:00:00,2026-01-26T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026002055
