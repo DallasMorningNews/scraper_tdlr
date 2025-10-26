@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+41d1c019-73da-4cb1-9a66-68c82e8f0b1e,TABS2026003950,Sherman Heritage Business Center,2025-10-21T17:58:34.297,3008,Sherman Heritage Business Center,1607,2091,9001,1500000.0,900001,2026-01-04T00:00:00,2026-09-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026003950
+67770448-2136-4153-8017-80e462b28727,TABS2026003899,SH 5 (Shared Use Path),2025-10-21T14:13:02.817,3009,CSJ: 0047-03-106,1787,2091,9001,1507348.0,900001,2026-08-01T00:00:00,2027-01-27T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026003899

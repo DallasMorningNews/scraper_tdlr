@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+9dc99863-ea16-46d4-a9ea-d49cafc1c02a,TABS2026004005,ARTISAN NAIL BAR,2025-10-22T12:02:59.57,3008,HEARTLAND TOWN CENTER,1131,2129,9001,200000.0,900001,2025-11-01T00:00:00,2026-03-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026004005
+e72f80b0-c5c6-46c6-90ab-0bc464857fe7,TABS2026003844,Delta Point Logistics Building 1,2025-10-21T11:07:56.217,3008,Building 1,595,2129,9001,5900000.0,900001,2025-12-01T00:00:00,2026-02-28T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026003844

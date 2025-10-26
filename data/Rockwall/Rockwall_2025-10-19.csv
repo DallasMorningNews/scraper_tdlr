@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+12f99960-bc27-4e12-b34c-a9193ca229f2,TABS2026004219,Layne's Chicken Fingers (Rockwall),2025-10-24T14:20:55.003,3008,Layne's Chicken Fingers,1486,2199,9002,250000.0,900001,2025-11-03T00:00:00,2025-12-15T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026004219
+081c68f5-a0fa-49ca-a4f2-6d0e849b6b59,TABS2026004102,QuikTrip # 935 Fryer Project,2025-10-23T12:58:55.827,3008,QuikTrip # 935,1486,2199,9002,125000.0,900001,2026-02-01T00:00:00,2026-02-16T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026004102
+c61db9f2-a663-4a18-9b96-50c081f056d9,TABS2026003963,Gettysburg Boulevard,2025-10-22T08:05:44.473,3008,Gettysburg Boulevard,574,2199,9002,85000.0,900001,2024-10-01T00:00:00,2025-10-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026003963
