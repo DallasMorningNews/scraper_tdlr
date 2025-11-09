@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,DataVersionId,ProjectName,ProjectStatus,ProjectCreatedOn,FacilityName,City,County,TypeOfWork,EstimatedCost,EstimatedStartDate,EstimatedEndDate,URL
+8237f27a-3177-4a7f-b150-58c51335506b,TABS2026005366,900001,1407  Washington Remodel,3008,2025-11-07T10:21:52.54,The Office at 1407,857,2129,9002,195000.0,2025-11-15T00:00:00,2026-01-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026005366
+86ae6aed-1baf-4c4b-bf8a-1578aff9f843,TABS2026005143,900001,Aurora Nail Bar,3008,2025-11-05T14:37:58.157,Aurora Nail Bar,595,2129,9003,200000.0,2026-01-31T00:00:00,2026-06-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026005143
+fc7f4dc7-eb16-42a8-8068-69ec3262b538,TABS2026005009,900001,National Breathe Free Sinus & Allergy Centers,3008,2025-11-04T13:39:35.72,Forney Medical Plaza I,595,2129,9002,290786.0,2025-11-10T00:00:00,2026-02-13T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026005009

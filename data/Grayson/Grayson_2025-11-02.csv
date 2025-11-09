@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,DataVersionId,ProjectName,ProjectStatus,ProjectCreatedOn,FacilityName,City,County,TypeOfWork,EstimatedCost,EstimatedStartDate,EstimatedEndDate,URL
+93c25d6b-dbe9-4c35-99be-67d25d8fe512,TABS2026005396,900001,Audioengine World Headquarters,3008,2025-11-07T12:40:48.89,Audioengine Headquarters,1607,2091,9002,1000000.0,2025-11-17T00:00:00,2026-02-28T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026005396
+1dd6a729-1f80-4291-8542-08fd7a4b3097,TABS2026005378,900001,Bubba's 33- Sherman,3008,2025-11-07T11:02:16.313,Bubba's 33,1607,2091,9001,750000.0,2026-03-16T00:00:00,2026-08-24T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026005378
+977b4067-272e-4c79-b313-01601405f5e8,TABS2026005082,900001,Nutex Sherman,3008,2025-11-05T09:29:16.057,Red River ER and Hospital,1607,2091,9002,50000.0,2025-09-01T00:00:00,2025-10-23T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026005082
