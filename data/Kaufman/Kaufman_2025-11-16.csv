@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+3cc12d47-c2e4-48dc-a04d-b37b3a4fda77,TABS2026006096,Maplewood Meadows Phase 2A & 2B,2025-11-17T16:35:18.017,3008,N/A,595,2129,9001,139923.0,900001,2026-03-15T00:00:00,2027-09-15T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026006096
+38a22238-bd84-404e-a1c8-53a0f9aa325f,TABS2026006024,KOKOMO K DOG,2025-11-17T12:40:18.83,3008,FORNEY MARKET RETAIL,595,2129,9002,150000.0,900001,2025-12-22T00:00:00,2026-04-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026006024
+b6de8aef-5722-40c8-8926-3baa5e3fbc45,TABS2026006023,Bridge The Gap Dormitory,2025-11-17T12:37:50.29,3008,Bridge The Gap Foundation,1721,2129,9002,75000.0,900001,2025-12-01T00:00:00,2026-05-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026006023
