@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+c0fc0098-fe1f-4bac-a367-67576958ef30,TABS2026006785,Luna Grill Mediterranean Kitchen,2025-11-25T17:25:55.343,3008,Village at Gateway - Building C,595,2129,9002,450000.0,900001,2026-02-02T00:00:00,2026-06-26T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026006785
+ef9bd392-abde-4adf-81f1-c2e4a3277b6c,TABS2026006668,Mabank Intermediate School Renovations,2025-11-24T16:40:35.1,3008,Mabank Intermediate School,1051,2129,9002,4500000.0,900001,2026-05-25T00:00:00,2027-08-02T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026006668
