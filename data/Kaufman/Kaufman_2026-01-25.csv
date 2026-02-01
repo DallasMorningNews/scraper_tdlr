@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+c668b3ee-959c-4f37-ac46-fa228e9dfaaa,TABS2026011114,Wells Fargo Forney,2026-01-28T13:52:39.967,3008,Wells Fargo,595,2129,9001,2200000.0,900001,2026-04-01T00:00:00,2026-11-02T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026011114
+3b546b1f-fb6d-430b-8839-6dbb28a9a7d6,TABS2026011094,Asco Equipment - Terrell,2026-01-28T12:36:19.733,3008,Asco Equipment,1721,2129,9001,9000000.0,900001,2026-02-06T00:00:00,2027-01-22T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026011094
+43ca9805-17cf-447b-a0c5-1cd48808e8cd,TABS2026010871,GLOSSE NAIL BAR,2026-01-26T14:34:41.977,3008,GEORGE G. BROWN,1721,2129,9002,250000.0,900001,2026-02-23T00:00:00,2026-08-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026010871
