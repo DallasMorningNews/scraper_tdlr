@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+82b3b66f-6976-4e65-8bdb-d9682b3d7954,TABS2026012552,Covenant Forney,2026-02-13T10:55:01.583,3008,Fox Hollow Retail,595,2129,9001,426020.0,900001,2026-06-01T00:00:00,2026-12-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026012552
+721dae85-7541-4f7c-aeff-efab6d581339,TABS2026012511,James Avery - Q 155 Forney,2026-02-12T16:22:14.047,3008,Village at Gateway,595,2129,9001,675000.0,900001,2026-03-09T00:00:00,2026-06-19T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026012511
+53241143-4975-42e1-b815-e1c2ec9a0c23,TABS2026012230,Kemp ISD Ag Shop,2026-02-10T15:40:51.037,3008,Kemp ISD Ag shop,863,2129,9001,3000000.0,900001,2026-03-15T00:00:00,2026-08-15T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026012230

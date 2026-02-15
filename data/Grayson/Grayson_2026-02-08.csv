@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+501f8e38-ef55-40f9-971b-af3e0cc25dcd,TABS2026012210,AT&T Sherman TX,2026-02-10T14:33:49.307,3008,Sherman Town Center,1607,2091,9002,200000.0,900001,2026-02-15T00:00:00,2026-03-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026012210
+97031154-e7c4-4eb4-8955-35738d2c39df,TABS2026012079,Sherman Chevrolet Service Shop Remodel,2026-02-09T14:36:25.413,3008,Sherman Chevrolet,1607,2091,9002,1000000.0,900001,2026-04-01T00:00:00,2026-10-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026012079
