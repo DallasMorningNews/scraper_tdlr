@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+dcee0b84-2c4d-4553-9eda-a230a1322ccd,TABS2026012919,"Walmart 947-1005 Sherman, TX",2026-02-18T13:54:56.107,3008,Walmart 947,1607,2091,9002,1100000.0,900001,2026-06-21T00:00:00,2026-07-17T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026012919
+8b5dfa50-87e8-4fea-8327-efa956c14a34,TABS2026012886,Wellness Reimagined,2026-02-18T10:06:35.817,3008,Katy Depot Denison,443,2091,9002,125000.0,900001,2026-03-02T00:00:00,2026-03-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026012886
+0175c01b-a973-45c1-9e5e-ad78af6a6a9d,TABS2026012742,201 MAIN BLDG,2026-02-16T21:10:04.263,3009,-,443,2091,9001,1000000.0,900001,2026-03-01T00:00:00,2026-10-15T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026012742
