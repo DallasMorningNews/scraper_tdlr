@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,DataVersionId,ProjectName,ProjectStatus,ProjectCreatedOn,FacilityName,City,County,TypeOfWork,EstimatedCost,EstimatedStartDate,EstimatedEndDate,URL
+d37bf54d-a534-4dcd-9ce6-927aa2f880d4,TABS2026014423,900001,Hollas Property 2,3008,2026-03-06T17:47:26.643,Lot 29 Building,1513,2199,9001,450000.0,2026-03-16T00:00:00,2026-09-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026014423
+86fc5776-54a2-43a7-ae82-977011f0e257,TABS2026014006,900001,Taco Bell Restaurant,3008,2026-03-03T14:07:08.79,Taco Bell,1486,2199,9001,1350000.0,2026-06-01T00:00:00,2026-09-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026014006
+451ba661-c9fc-4207-b89b-b288642ddc27,TABS2026013864,900001,DAL-653 New Fuel Center,3008,2026-03-02T12:29:47.053,DAL-653 New Fuel Center,574,2199,9001,1100000.0,2026-09-26T00:00:00,2027-03-12T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026013864
