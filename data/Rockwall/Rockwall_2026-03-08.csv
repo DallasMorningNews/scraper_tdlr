@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,DataVersionId,ProjectName,ProjectStatus,ProjectCreatedOn,FacilityName,City,County,TypeOfWork,EstimatedCost,EstimatedStartDate,EstimatedEndDate,URL
+dadff58f-48c6-4852-9aaa-f3b190cb01fa,TABS2026014537,900001,Hollas - Lot 31,3008,2026-03-09T21:56:51.8,Hollas Property 2,1513,2199,9001,600000.0,2026-03-16T00:00:00,2026-09-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026014537
+253507dd-9537-45b0-9062-cd422df737e2,TABS2026014531,900001,Hollas - Lot 30,3008,2026-03-09T18:57:09.283,Hollas Property 2,1513,2199,9001,450000.0,2026-03-16T00:00:00,2026-09-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026014531
+7d653f04-67fd-45a5-8d9b-1c7f689b0fd9,TABS2026014437,900001,Pediatrix,3008,2026-03-08T20:00:46.593,Lake Pointe Medical Plaza,1486,2199,9002,350000.0,2026-04-01T00:00:00,2026-08-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026014437
