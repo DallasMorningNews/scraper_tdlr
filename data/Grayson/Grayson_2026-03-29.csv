@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+bac15acf-43e3-41ee-a6f1-2026815ae232,TABS2026016696,Proposed New Hangar,2026-04-02T12:25:49.523,3008,Rise Aviation Hangar,443,2091,9001,9000000.0,900001,2026-04-20T00:00:00,2027-02-26T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026016696
+53c943e6-0f37-48c0-800d-827fc0f67ec7,TABS2026016518,Purple Haus,2026-04-01T10:17:38.513,3009,Purple Haus,346,2091,9002,100000.0,900001,2026-04-15T00:00:00,2026-06-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026016518
+0057aba1-8a68-46a4-b866-e50b571da2bd,TABS2026016486,Holiday Inn Denison Repairs,2026-03-31T23:57:34.087,3008,715 N Point Lookout Drive,443,2091,9002,300000.0,900001,2026-04-15T00:00:00,2026-07-15T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026016486
