@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+c267aa9f-361b-41df-9781-e398feed7184,TABS2026018004,Denison ISD Pathways HS Renovations,2026-04-17T16:31:35.427,3008,Pathways Academy,443,2091,9002,600000.0,900001,2026-06-01T00:00:00,2026-12-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026018004
+e30f02f7-3110-4dcd-bfd4-92f0f15fbcfc,TABS2026018000,Denison ISD DESC Renovations,2026-04-17T16:11:16.593,3008,Denison Education Support Center,443,2091,9002,2000000.0,900001,2026-06-01T00:00:00,2026-09-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026018000
+757e8f74-c5f4-4ade-9048-6764349450b6,TABS2026017627,The Grove at Texoma,2026-04-14T16:02:27.677,3008,The Grove at Texoma,1392,2091,9001,2500000.0,900001,2026-05-01T00:00:00,2027-01-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026017627
