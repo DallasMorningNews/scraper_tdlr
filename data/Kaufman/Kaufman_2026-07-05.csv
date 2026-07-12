@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+55eed5a2-4f4d-4f29-843b-760115527d15,TABS2026024951,Amazon Distribution Center - ITX7,2026-07-09T17:12:07.033,3008,ITX7,1721,2129,9001,98000000.0,900001,2026-08-03T00:00:00,2027-08-02T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026024951
+1670aab2-d83b-4e12-8e42-f5aec927330f,TABS2026024876,Breezy Hill Park Splash Pad,2026-07-09T11:21:21.307,3008,Breezy Hill Park Splash Pad,1721,2129,9001,215000.0,900001,2026-06-22T00:00:00,2026-08-03T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026024876
+654ad365-4efe-4c8f-8f18-38a22cb86fe5,TABS2026024613,Zaxby's Modern Farmhouse,2026-07-07T10:43:41.383,3008,Stand alone QSR,857,2129,9002,175000.0,900001,2026-07-15T00:00:00,2026-11-15T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026024613

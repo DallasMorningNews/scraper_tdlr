@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+6eadf53a-3de1-438a-a4e6-616d925ec5fd,TABS2026025026,HOLIDAY FORD - DAMAGE RESTORATION,2026-07-10T15:19:39.67,3008,HOLIDAY FORD,1871,2091,9003,2104200.0,900001,2026-08-03T00:00:00,2027-03-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026025026
+29145191-1e61-4238-8e07-a2bb946015ae,TABS2026024916,Historic Texas Sign and Plaza,2026-07-09T14:05:33.133,3008,Historic Texas Sign and Plaza,1607,2091,9002,120000.0,900001,2026-08-10T00:00:00,2026-09-07T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026024916
+4f31ee9e-42cf-4822-aceb-3d301967e644,TABS2026024585,"Sherman, TX Planet Fitness",2026-07-07T08:26:15.09,3008,Planet Fitness,1607,2091,9002,400000.0,900001,2026-07-31T00:00:00,2026-10-14T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026024585
