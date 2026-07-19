@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+1753b07e-4d83-4b07-b295-4527ab00b2c9,TABS2026025426,"Multi-Tenant Shell - Forney, TX",2026-07-16T11:48:49.633,3008,Multi-Tenant Shell,595,2129,9001,1500000.0,900001,2026-09-01T00:00:00,2027-08-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026025426
+5f664a28-b76d-48bd-b15a-707e16d95ece,TABS2026025134,Trinity Pointe Building 6,2026-07-13T16:03:29.007,3008,Trinity Pointe Building 6,1131,2129,9001,31000000.0,900001,2026-09-01T00:00:00,2027-09-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026025134
