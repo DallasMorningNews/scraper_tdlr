@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,DataVersionId,ProjectName,ProjectStatus,ProjectCreatedOn,FacilityName,City,County,TypeOfWork,EstimatedCost,EstimatedStartDate,EstimatedEndDate,URL
+a5800bdd-3aac-4711-811b-f79a80409eed,TABS2026026816,900001,Ship it & Drop it,3009,2026-08-03T15:45:27.833,Shops at Woodcreek,574,2199,9003,200000.0,2026-10-19T00:00:00,2026-12-14T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026026816
+4dfe11a4-5a80-40c2-9e83-7e62fb3e695b,TABS2026026758,900001,HEB Royse City FSCW,3008,2026-08-03T10:51:50.863,HEB Royse City FSCW,1513,2199,9001,1898128.0,2027-05-15T00:00:00,2028-01-28T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026026758
+94ca7e65-963f-4e44-87e3-af2971b38f31,TABS2026026757,900001,HEB Royse City Store #837,3008,2026-08-03T10:46:30.023,HEB Royse City Store #837,1513,2199,9001,39940268.0,2027-01-04T00:00:00,2028-01-28T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026026757

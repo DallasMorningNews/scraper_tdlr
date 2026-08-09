@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,DataVersionId,ProjectName,ProjectStatus,ProjectCreatedOn,FacilityName,City,County,TypeOfWork,EstimatedCost,EstimatedStartDate,EstimatedEndDate,URL
+798037e8-d8ea-4b6e-adaf-e84d88925f7f,TABS2026027321,900001,Asali Properties,3008,2026-08-08T14:40:53.953,Center Laundromat,445,2091,9001,260000.0,2026-09-01T00:00:00,2026-12-20T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026027321
+bc35cda0-7270-4bcb-ba85-b045cb47f945,TABS2026027233,900001,Zone 2 EPI/Metrology,3008,2026-08-07T08:28:03.63,Coherent Corp.,1607,2091,9002,12000000.0,2027-01-01T00:00:00,2027-06-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026027233
