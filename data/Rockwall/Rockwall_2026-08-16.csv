@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+1cc352e7-ebb1-47ad-b590-eb703cb7dcd4,TABS2026028291,McLendon Chisholm Retail,2026-08-19T21:21:25.02,3008,McLendon Chisholm Retail,1926,2199,9001,1200000.0,900001,2026-09-30T00:00:00,2027-06-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026028291
+820b7650-4693-4137-831f-5d8e8ab71c41,TABS2026028110,Huey's Coffee - Fate,2026-08-18T12:48:56.69,3008,Huey's Coffee,574,2199,9001,500000.0,900001,2026-09-01T00:00:00,2026-11-28T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026028110
+271db859-86de-44f8-bb2a-71d5ab5af63e,TABS2026028060,Bldg. B Interior Finish-out for Office,2026-08-17T19:03:52.087,3008,John King Bldg. B,1486,2199,9002,185000.0,900001,2026-09-01T00:00:00,2026-11-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026028060
