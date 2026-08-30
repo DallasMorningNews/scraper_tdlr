@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,DataVersionId,ProjectName,ProjectStatus,ProjectCreatedOn,FacilityName,City,County,TypeOfWork,EstimatedCost,EstimatedStartDate,EstimatedEndDate,URL
+81016fb4-4969-4dfd-a452-66ecb1b8b67d,TABS2026028840,900001,Glaucoma Center of Texas - Rockwall,3009,2026-08-26T10:41:17.44,Rockwall MOB,1486,2199,9001,719000.0,2026-03-02T00:00:00,2027-01-04T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026028840
+af970391-9eaf-414c-a77b-4ef7901da11a,TABS2026028726,900001,Press 10 Installation,3008,2026-08-25T11:28:47.81,"Alvaplast US Development, LLC",1486,2199,9001,1000000.0,2026-10-01T00:00:00,2027-04-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026028726
+36b7cc07-5cbf-4f35-b3d1-dab35c488dac,TABS2026028707,900001,Dax Eyewear Warehouse,3008,2026-08-25T10:19:23.407,Dax Eyewear Warehouse,1513,2199,9001,525000.0,2026-09-15T00:00:00,2027-03-15T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026028707
