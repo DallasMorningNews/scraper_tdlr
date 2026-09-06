@@ -1,0 +1,4 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+4ff77650-99a0-4db5-86a1-c084e293941a,TABS2027000223,edge outdoor designs,2026-09-02T16:19:19.807,3008,edge outdoor designs,709,2091,9002,100000.0,900001,2026-10-30T00:00:00,2026-12-30T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2027000223
+b246a32e-681f-44c0-a5e4-5079c2adcf11,TABS2027000205,First Texas National Bank,2026-09-02T15:24:12.327,3008,First Texas National Bank,443,2091,9002,550000.0,900001,2026-10-01T00:00:00,2027-03-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2027000205
+b31bbbe8-4b65-4c01-b7e1-a99ed0f7ce73,TABS2026029214,Goodwill Sherman,2026-08-31T11:47:41.153,3008,Goodwill Sherman,1607,2091,9001,4500000.0,900001,2026-09-01T00:00:00,2026-12-15T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026029214
