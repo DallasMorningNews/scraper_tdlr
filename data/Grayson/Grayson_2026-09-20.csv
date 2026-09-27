@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,DataVersionId,ProjectName,ProjectStatus,ProjectCreatedOn,FacilityName,City,County,TypeOfWork,EstimatedCost,EstimatedStartDate,EstimatedEndDate,URL
+6ea574ff-0544-4966-9d09-ebe7b82cb7ae,TABS2027001809,900001,Lone Tree Park Improvements,3008,2026-09-23T16:46:33.353,Lone Tree Park Improvements,1787,2091,9001,3750000.0,2026-10-01T00:00:00,2027-05-31T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2027001809
+27eed34a-69c4-4892-bf2f-49cff6bbcff9,TABS2027001685,900001,Denison Hotel Rehabilitation,3008,2026-09-22T15:35:19.36,Traveler's Hotel,443,2091,9002,800000.0,2026-11-01T00:00:00,2027-04-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2027001685
