@@ -1,0 +1,3 @@
+ProjectId,ProjectNumber,ProjectName,ProjectCreatedOn,ProjectStatus,FacilityName,City,County,TypeOfWork,EstimatedCost,DataVersionId,EstimatedStartDate,EstimatedEndDate,URL
+316c00d0-d5de-4ad6-94ce-3bdecd465834,TABS2027003077,New Building - Tower of Praise Church,2026-10-08T11:23:00.493,3008,Tower of Praise Church,1512,2199,9001,250000.0,900001,2026-11-02T00:00:00,2027-02-26T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2027003077
+b3f3df66-86c3-4b9d-9d6c-690aabc48778,TABS2027002943,Horizon Offices,2026-10-07T10:08:07.383,3008,Horizon Rd Offices,1486,2199,9001,6600000.0,900001,2026-12-07T00:00:00,2027-09-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2027002943
