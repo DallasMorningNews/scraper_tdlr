@@ -1,0 +1,3 @@
+EstimatedCost,ProjectId,ProjectNumber,DataVersionId,ProjectName,ProjectStatus,ProjectCreatedOn,FacilityName,City,County,TypeOfWork,EstimatedStartDate,EstimatedEndDate,URL
+550000.0,115f1da4-c523-423e-a1e5-7591fa5552e9,TABS2027004417,900001,TotalCare Family Practice,3008,2026-10-26T13:35:55.987,Victory Shops forney,595,2129,9002,2026-12-01T00:00:00,2027-12-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2027004417
+1650000.0,a82be5eb-37b5-4ec4-ade5-07aa22466d88,TABS2027004401,900001,TotalCare ER,3008,2026-10-26T12:01:17.92,Victory Shops,595,2129,9002,2026-12-01T00:00:00,2027-12-01T00:00:00,https://www.tdlr.texas.gov/TABS/Search/Project/TABS2027004401
